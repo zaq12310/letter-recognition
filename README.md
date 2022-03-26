@@ -23,7 +23,12 @@ Pred2为input所对应的训练后网络预测值
 
 测试后获得混淆矩阵
 其中1，2，3，4分别代表字母A.B.C.D，其他数字为识别错误或者说无法识别
+
+
+
 ![image](https://user-images.githubusercontent.com/92127845/160222029-02e76337-e96b-4934-b330-801863e9d986.png)
+
+
 
 加载训练后神经网络net1.mat预测神经网络识别图片7.jpg对应的输出情况
 ![image](https://user-images.githubusercontent.com/92127845/160222030-4247eccf-32b4-4790-93bf-2c262b8bc3c1.png)
