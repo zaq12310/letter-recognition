@@ -31,5 +31,6 @@ Pred2为input所对应的训练后网络预测值
 
 
 加载训练后神经网络net1.mat预测神经网络识别图片7.jpg对应的输出情况
+
 ![image](https://user-images.githubusercontent.com/92127845/160222030-4247eccf-32b4-4790-93bf-2c262b8bc3c1.png)
 
